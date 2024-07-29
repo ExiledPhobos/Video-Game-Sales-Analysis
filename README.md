@@ -10,10 +10,10 @@ This project provides a comprehensive analysis of video game sales data. The ana
 2. Navigate to the project directory: `cd video-game-sales-analysis`
 
 3. Set up a virtual environment:
-
+```
    `python -m venv venv`
    `source venv/bin/activate`
-
+```
 4. Install the dependencies: `pip install -r requirements.txt`
 
 ## Usage
