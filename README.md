@@ -3,34 +3,6 @@ Video Game Sales Analysis
 - Project Description
 This project provides a comprehensive analysis of video game sales data. The analysis includes data cleaning, exploratory data analysis (EDA), and visualizations to uncover trends and insights. The dataset contains information on video game sales across various platforms, genres, and regions.
 
-- Project Structure
-
-video-game-sales-analysis/
-├── data/
-│   ├── raw/
-│   │   └── vgsales.csv
-│   └── processed/
-│       └── vgsales_cleaned.csv
-├── scripts/
-│   ├── data_cleaning.py
-│   ├── eda_and_visualization.py
-├── reports/
-│   ├── figures/
-│   │   ├── distribution_year.png
-│   │   ├── distribution_genres.png
-│   │   ├── distribution_platforms.png
-│   │   ├── top_publishers.png
-│   │   ├── correlation_matrix.png
-│   │   ├── sales_by_year.png
-│   │   ├── top_genres.png
-│   │   ├── top_platforms.png
-│   │   ├── top_publishers.png
-│   │   └── sales_by_region.png
-│   └── summary_report.md
-├── .gitignore
-├── README.md
-└── requirements.txt
-
 - Setup Instructions
 
 1. Clone the repository: git clone https://github.com/your-username/video-game-sales-analysis.git
