@@ -5,17 +5,23 @@ This project provides a comprehensive analysis of video game sales data. The ana
 
 ## Setup Instructions
 
-1. Clone the repository: `git clone https://github.com/ExiledPhobos/Video-Game-Sales-Analysis.git`
-
-2. Navigate to the project directory: `cd video-game-sales-analysis`
-
+1. Clone the repository: 
+```python
+git clone https://github.com/ExiledPhobos/Video-Game-Sales-Analysis.git
+```
+2. Navigate to the project directory: 
+```python
+cd video-game-sales-analysis
+```
 3. Set up a virtual environment:
+```python
+python -m venv venv
+source venv/bin/activate
 ```
-   `python -m venv venv`
-   `source venv/bin/activate`
+4. Install the dependencies: 
+```python
+pip install -r requirements.txt
 ```
-4. Install the dependencies: `pip install -r requirements.txt`
-
 ## Usage
 
 1. Run `scripts/data_cleaning.py` to clean the raw data.
