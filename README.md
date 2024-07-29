@@ -1,18 +1,18 @@
-Video Game Sales Analysis
+# Video Game Sales Analysis
 
 - Project Description
 This project provides a comprehensive analysis of video game sales data. The analysis includes data cleaning, exploratory data analysis (EDA), and visualizations to uncover trends and insights. The dataset contains information on video game sales across various platforms, genres, and regions.
 
 - Setup Instructions
 
-1. Clone the repository: git clone https://github.com/your-username/video-game-sales-analysis.git
+1. Clone the repository: git clone https://github.com/ExiledPhobos/Video-Game-Sales-Analysis.git
 
 2. Navigate to the project directory: cd video-game-sales-analysis
 
 3. Set up a virtual environment:
 
    python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   source venv/bin/activate
 
 4. Install the dependencies: pip install -r requirements.txt
 
