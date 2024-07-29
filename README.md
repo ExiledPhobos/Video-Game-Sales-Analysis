@@ -25,3 +25,11 @@ This project provides a comprehensive analysis of video game sales data. The ana
 - Results
 
 The results of the analysis can be found in the `reports/figures` directory, and the summary of the findings is documented in `reports/summary_report.md`.
+
+## Sample Output
+
+### Distribution of Year
+![Distribution of Year](reports/figures/distribution_year.png)
+
+### Top 10 Genres by Global Sales
+![Top 10 Genres by Global Sales](reports/figures/top_genres.png)
