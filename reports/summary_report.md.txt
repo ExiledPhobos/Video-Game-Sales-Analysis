@@ -1,0 +1,24 @@
+# Video Game Sales Analysis
+
+## Introduction
+This report provides a comprehensive analysis of video game sales data. The analysis includes data cleaning, exploratory data analysis (EDA), and visualizations to uncover trends and insights.
+
+## Data Overview
+The dataset contains information on video game sales across various platforms, genres, and regions.
+
+## Exploratory Data Analysis
+
+### Basic Information
+- Number of records: 16,291
+- Number of features: 11
+
+### Basic Statistics
+| Feature       | Count  | Mean   | Std    | Min   | 25%   | 50%   | 75%   | Max   |
+|---------------|--------|--------|--------|-------|-------|-------|-------|-------|
+| Rank          | 16291  | 8290.2 | 4792.7 | 1     | 4132.5| 8292  | 12439.5| 16600 |
+| Year          | 16291  | 2006.4 | 5.83   | 1980  | 2003  | 2007  | 2010  | 2020  |
+| NA_Sales      | 16291  | 0.29   | 0.81   | 0     | 0.03  | 0.08  | 0.24  | 41.36 |
+| EU_Sales      | 16291  | 0.14   | 0.51   | 0     | 0.02  | 0.05  | 0.17  | 29.02 |
+| JP_Sales      | 16291  | 0.08   | 0.31   | 0     | 0     | 0.02  | 0.08  | 10.22 |
+| Other_Sales   | 16291  | 0.05   | 0.19   | 0     | 0     | 0.01  | 0.04  | 10.57 |
+| Global_Sales  | 16291  | 0.54   | 1.57   | 0
